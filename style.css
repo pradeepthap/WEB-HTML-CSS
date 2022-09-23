@@ -1,10 +1,5 @@
-body{
-    background-color: aliceblue;
-    color: white;
-    font-size: 40px;
-    font-weight:lighter;
-    text-align: center;
-    margin-top: 100px;
+div {
+   margin-top: auto; 
 }
 img {
     width: 300px;
@@ -22,5 +17,6 @@ input {
     margin-right: auto;
 }
 button {
+    
     border-radius: 10px;
 }
