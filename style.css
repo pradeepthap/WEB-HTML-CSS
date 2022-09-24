@@ -1,28 +1,11 @@
 .main {
    margin-top: 100px; 
 }
-
-.sec {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-img {
+.logo-img{
+    display: block;
     width: 300px;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
 }
-input {
+.search-input{
+    display: block;
     width: 400px;
-    height: 30px;
-    border-radius: 20px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-button {
-    
-    border-radius: 10px;
 }
