@@ -15,7 +15,10 @@
 }
 .search-input{
     display: block;
-    width: 400px;
+    height: 40px;
+    width: 500px;
+    border: 2px solid rgb(238, 237, 237);
+    border-radius: 40px;
     margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto;
