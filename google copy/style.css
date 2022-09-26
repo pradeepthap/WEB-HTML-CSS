@@ -15,10 +15,10 @@
 }
 .search-input{
     display: block;
-    height: 40px;
+    height: 24px;
     width: 500px;
-    border: 2px solid rgb(238, 237, 237);
-    border-radius: 40px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
     margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto;
@@ -28,6 +28,7 @@
     margin-left: auto;
     margin-right: auto;
 }
+/*
 .card{
     color: #222;
     background: lightgrey;
@@ -55,4 +56,5 @@
     padding-right: 16px;
     font-weight: bold;
    
-}
+} 
+*/
