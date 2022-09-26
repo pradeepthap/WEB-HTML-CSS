@@ -1,12 +1,25 @@
+body{
+    margin: 0px;
+}
 .red {
     background: red;
     height: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .blue {
     background: blue;
     height: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+
 }
 .green {
     background: green;
     height: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
