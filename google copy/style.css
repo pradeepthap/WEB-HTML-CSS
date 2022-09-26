@@ -24,6 +24,11 @@ button {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
-
-
+}
+.card{
+    color: #222;
+    background: lightgrey;
+    width: 200px;
+    padding-top: 100px;
+    padding-right: 100px;
 }
