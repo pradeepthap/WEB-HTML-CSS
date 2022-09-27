@@ -10,8 +10,7 @@ body{
     background-color: #ddebf8;
     color: #2b2839;
     width: 400px;
-    margin-left:auto;
-    margin-right: auto;
+    margin: 0 auto;
     padding: 10px;
     display: flex;
     justify-content: space-around;
@@ -24,6 +23,15 @@ body{
 }
 .info{
     margin-top: 30px;
+}
+
+.red-circle{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background: #f40909;
+    margin: 40px auto;
+
 }
 /*.border-blue{
     border: 1px dashed blue;
