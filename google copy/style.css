@@ -52,20 +52,41 @@
 }
 
 footer{
-    margin: 200px;
+    width: 100%;
+    height: auto;
+    position: relative;
+    
+    
+
+}
+.footer-nav-item {
+    margin-left: 300px;
+}
+.footer-top{
+    border-bottom: 1px solid grey;
+    width: 100%;
+
+    
+}
+
+p {
+    padding-left: 20px;
 }
 .footer-nav{
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
+
+
 }
-.footer-nav-left, .footer-nav-right{
+.footer-nav-list{
+    width: 100%;
     display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+    list-style-type: none;
 }
 
-.footer-nav-left >li , .footer-nav-right >li{
-    list-style-type: none;
-    margin-left: 20px;
-}
+
 /*
 .card{
     color: #222;
