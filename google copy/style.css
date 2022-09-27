@@ -55,12 +55,15 @@ footer{
     width: 100%;
     height: auto;
     position: relative;
-    
-    
-
+    background-color: #9aa0a6;  
 }
-.footer-nav-item {
-    margin-left: 300px;
+.footer-nav-list{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
 }
 .footer-top{
     border-bottom: 1px solid grey;
@@ -73,17 +76,12 @@ p {
     padding-left: 20px;
 }
 .footer-nav{
-    display: flex;
-    justify-content: flex-start;
-
-
-}
-.footer-nav-list{
     width: 100%;
     display: flex;
     text-decoration: none;
     justify-content: space-between;
     list-style-type: none;
+    margin: 0 20px;
 }
 
 
