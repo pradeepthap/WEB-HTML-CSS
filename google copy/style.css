@@ -51,6 +51,21 @@
 
 }
 
+footer{
+    margin: 200px;
+}
+.footer-nav{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-nav-left, .footer-nav-right{
+    display: flex;
+}
+
+.footer-nav-left >li , .footer-nav-right >li{
+    list-style-type: none;
+    margin-left: 20px;
+}
 /*
 .card{
     color: #222;
