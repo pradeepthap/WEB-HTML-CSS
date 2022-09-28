@@ -92,3 +92,11 @@ header{
 #gift-img-cheers:hover{
     background-image: url("image/cheers.jpg");
 }
+#footer {
+    width: 400px;
+    margin: 40px auto 20px;
+    font-style: italic;
+}
+a{
+    color: white;
+}
