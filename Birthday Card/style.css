@@ -45,7 +45,8 @@ header{
     margin: 0 auto;
     width: 400px;
     height: 400px;
-    background-image: url("image/giftcover.jpeg");
+    background: linear-gradient(rgb(22, 104, 155) rgb(144, 189, 226));
+    /*background-image: url("image/giftcover.jpeg"); */
     background-size: cover;
     border: 6px solid rgb(50, 48, 48);
     border-radius: 10px;
