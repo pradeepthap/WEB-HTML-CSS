@@ -1,3 +1,4 @@
+
 body {
     margin: 0%;
 }
@@ -5,6 +6,7 @@ body {
     width: auto;
     height: 746px;
     background:linear-gradient(#FFFFFF, #D4E7FE) ;
+    position: fixed;
 }
 .header-menu{
     display: flex;
@@ -12,6 +14,7 @@ body {
 }
 .header-menu-list {
     list-style: none;
+    text-align: center;
 }
 ul {
     list-style: none;
@@ -22,13 +25,13 @@ ul {
     margin: 35px 0 0 135px ;
     
 }
-.header-menu-btn-search {
- display: ;  
+.header-menu-btn{
+    font-family: 'Inter', sans-serif;
 }
 .header-menu-btn-login{
     background-color: #217BF4;
     width: 123px;
-    height: 50px;
+    height: 50px;  
     border: none;
     border-radius: 14px;
     font-size: 12px;
