@@ -23,3 +23,13 @@ header {
     align-items: center;
     padding: 30px 10%;
 }
+.logo {
+    cursor: pointer;
+}
+.nav-links {
+    list-style: none;
+}
+.nav-links li {
+   display:inline-block;
+    padding: 0 20px;
+}
